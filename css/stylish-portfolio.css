@@ -6,6 +6,15 @@
 
 /* Global Styles */
 
+.bg-primary {
+    color: #fff;
+    background-color: #0B0B0B;
+}
+
+.text-primary {
+    color: #FAC184;
+}
+
 html,
 body {
     width: 100%;
@@ -176,6 +185,7 @@ hr.small {
 
 .services {
     padding: 50px 0;
+    /* color: #080808;  */
 }
 
 .service-item {
