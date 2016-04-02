@@ -20,6 +20,7 @@ body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
+    color: #7F97B7;
 }
 
 .text-vertical-center h1 {
@@ -27,6 +28,9 @@ body {
     padding: 0;
     font-size: 4.5em;
     font-weight: 700;
+    background: -webkit-radial-gradient(#FEFE9C, #FAB873);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 /* Custom Button Styles */
